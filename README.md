@@ -1,2 +1,2 @@
 # calender
-add,sub
+add,sub,div calculator
